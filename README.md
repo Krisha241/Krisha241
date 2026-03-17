@@ -69,5 +69,5 @@ Interactive platform to simulate real SOC workflows. Launch Red Team attacks
 ## 📬 Contact
 
 - 💼 LinkedIn: [krisha-vanpariya](https://linkedin.com/in/krisha-vanpariya)
-- 📧 Email: your@email.com
+- 📧 Email: krishavanpariya2005@gmail.com
 - 📍 Ahmedabad, India — Open to remote internships

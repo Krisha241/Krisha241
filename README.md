@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krisha 👋 — Aspiring SOC Analyst</h1>
 
 <p align="center">
-  <b>BTech Information Technology @ Indus University, Ahmedabad (2026) | CGPA: 9.68</b><br>
+  <b>BTech Information Technology @ Indus University, Ahmedabad (2026) | CGPA: 9.93</b><br>
   Defending Networks Through Infrastructure, Forensics, and Threat Detection
 </p>
 

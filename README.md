@@ -1,73 +1,92 @@
 <h1 align="center">Hi, I'm Krisha 👋 — Aspiring SOC Analyst</h1>
-
 <p align="center">
-  <b>BTech Information Technology @ Indus University, Ahmedabad (2026) | CGPA: 9.93</b><br>
-  Defending Networks Through Infrastructure, Forensics, and Threat Detection
+  <b>BTech Information Technology @ Indus University, Ahmedabad (2026) | CGPA: 9.93</b><br>
+  Building Defensive Security Tools · Network Intrusion Detection · SOC Simulations
 </p>
-
 <p align="center">
-  <a href="https://linkedin.com/in/krisha-vanpariya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20Operations-blue?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/krisha-vanpariya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-SOC%20%26%20Detection%20Engineering-blue?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-I am a final-year IT student dedicated to Blue Team operations. My core focus lies in pure cybersecurity disciplines: configuring defensive infrastructure, analyzing telemetry for threat hunting, and executing incident response playbooks. 
+I'm a final-year IT student who has built real-world cybersecurity tools focused
+on threat detection and SOC operations. I enjoy solving problems at the
+intersection of machine learning and network security.
 
-- 🔭 Currently building: CyberCare (Role-Based Security Platform) & SOC Simulation Lab
-- 🌱 Learning: Splunk · ELK Stack · DFIR (Digital Forensics) · SOC Analyst Certification Training
-- 👯 Looking for: SOC Analyst Internship / Entry-Level Security Engineer Role
-- 📍 Based in: Ahmedabad, India — Open to remote opportunities
+- 🎓 Final Year Project: CyberCare — Cybersecurity Education & Simulation Platform
+- 👯 Looking for: SOC Analyst Internship / Entry-Level Cybersecurity Analyst.
+- 📍 Based in: Ahmedabad, India — Open to internships (on-site or remote)
 
 ---
 
 ## ⚙️ Core Competencies
 
-**Defensive Security & Operations**
-`SOC Operations` `Incident Response Playbooks` `Threat Hunting` `MITRE ATT&CK` 
-`NIST CSF` `Alert Triage` `Log Normalization` `Digital Forensics`
+**Security & Monitoring**
+`SOC Operations` `Intrusion Detection (IDS/NIDS)` `Threat Detection`
+`Security Monitoring` `Alert Triage` `Log Analysis` `MITRE ATT&CK`
 
-**Infrastructure & Tooling**
-`Splunk` `ELK Stack` `Wireshark` `Sysmon` `Nmap` `Active Directory` `Linux Server Hardening`
+**Tools & Platforms**
+`Wireshark` `Scapy` `Nmap` `Splunk` `Docker` `SQLite` `Git`
 
-**Scripting & Automation**
-`Python` `Bash` `Docker` `REST APIs`
+**Programming & Scripting**
+`Python` `Bash` `SQL` `REST APIs`
+
+**Networking**
+`TCP/IP` `Packet Analysis` `Network Traffic Classification` `Anomaly Detection`
 
 ---
 
 ## 🚀 Featured Security Projects
 
-### 🔍 [AI-NIDS: Network Intrusion Detection & Anomaly Hunting](https://github.com/Krisha241/ai-nids)
-*Engineered a threat detection engine analyzing raw PCAP data and flow metrics to identify anomalous traffic patterns.*
-* **Security Focus:** Mapped network anomalies directly to the MITRE ATT&CK framework to establish robust traffic baselines and reduce alert fatigue.
-* **Outcome:** Achieved 99.55% accuracy in detecting DDoS, Brute Force, and Port Scan activities through advanced heuristic analysis.
-* **Tech:** `PCAP Analysis` `Traffic Baselines` `Python` `MITRE ATT&CK`
+### 🤝 [CyberCare: Cybersecurity Education & Simulation Platform](https://github.com/priyanshitrivedi30/CyberCare)
+*Final Year Project — Collaborative. Full-stack cybersecurity education platform
+with hands-on security labs and role-based access control.*
 
-### 🛡️ [SOC-Lab: Incident Response & Threat Simulation Environment](https://github.com/Krisha241/SOC-Lab)
-*Built an interactive Blue Team simulation platform to practice live incident response and validate security rules.*
-* **Security Focus:** Live log ingestion, alert triage, and active defense strategies against simulated web application attacks.
-* **Outcome:** Created a reproducible environment for testing Indicators of Compromise (IOCs) and refining IR playbooks.
-* **Tech:** `Telemetry` `Alert Triage` `Docker` `Log Generation`
-
-### 🔐 CyberCare: Role-Based Security & Ethical Testing Platform
-*Developed an integrated cybersecurity education and secure testing infrastructure.*
-* **Security Focus:** Implemented strict Role-Based Access Control (RBAC), secure database configurations, and vulnerability assessment simulations.
-* **Outcome:** Delivered customized user security assessments in an isolated, safe-testing environment.
-* **Tech:** `RBAC` `Access Control` `Security Posture Assessment`
+- **Security Focus:** 4 hands-on labs covering SQLi, XSS, PCL, and SCE with
+  Role-Based Access Control and secure database configurations
+- **Tech:** `JavaScript` `Docker` `RBAC` `Access Control` `FastAPI`
 
 ---
 
-## 📊 GitHub Stats
+### 🔍 [AI-NIDS: Network Intrusion Detection System](https://github.com/Krisha241/ai-nids)
+*ML-based threat detection engine trained on CICIDS2017 (2.5M flows) to classify
+network traffic as benign or malicious.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krisha241&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisha241&layout=compact&theme=dark&hide_border=true"/>
-</p>
+- **Security Focus:** Mapped detected attack patterns to MITRE ATT&CK techniques
+  — T1110 (Brute Force), T1046 (Port Scan), T1498 (DDoS)
+- **Outcome:** Achieved 99.55% classification accuracy using Random Forest and
+  Isolation Forest across 5 attack categories
+- **Tech:** `Python` `Scikit-learn` `Scapy` `CICIDS2017` `MITRE ATT&CK`
+
+---
+
+### 🛡️ [SOC-Lab: Attack Simulation & Incident Response](https://github.com/Krisha241/SOC-Lab)
+*Interactive Red vs Blue Team simulation platform to practice real-time incident
+response and validate detection rules.*
+
+- **Security Focus:** Simulates brute force, SQLi, and port scan attacks with
+  live log ingestion and alert triage workflows
+- **Outcome:** Reproducible environment for testing IOCs and refining Tier 1
+  analyst incident response playbooks
+- **Tech:** `Docker` `FastAPI` `React` `Python` `Log Generation`
+
+---
+
+### 🔐 [SQL Injection Training Lab](https://github.com/Krisha241/SQL_Injection)
+*Dockerized web vulnerability training platform with 6 progressive OWASP-mapped
+SQLi challenges.*
+
+- **Security Focus:** Covers OWASP Top 10 injection vulnerabilities in an
+  isolated, safe environment — from basic to blind SQL injection
+- **Outcome:** Hands-on exploitation and remediation practice across 6 difficulty
+  levels with real-time feedback
+- **Tech:** `Docker` `FastAPI` `React` `SQLite` `OWASP Top 10`
 
 ---
 

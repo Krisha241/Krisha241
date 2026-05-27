@@ -54,18 +54,6 @@ with hands-on security labs and role-based access control.*
 
 ---
 
-### 🔍 [AI-NIDS: Network Intrusion Detection System](https://github.com/Krisha241/ai-nids)
-*ML-based threat detection engine trained on CICIDS2017 (2.5M flows) to classify
-network traffic as benign or malicious.*
-
-- **Security Focus:** Mapped detected attack patterns to MITRE ATT&CK techniques
-  — T1110 (Brute Force), T1046 (Port Scan), T1498 (DDoS)
-- **Outcome:** Achieved 99.55% classification accuracy using Random Forest and
-  Isolation Forest across 5 attack categories
-- **Tech:** `Python` `Scikit-learn` `Scapy` `CICIDS2017` `MITRE ATT&CK`
-
----
-
 ### 🛡️ [SOC-Lab: Attack Simulation & Incident Response](https://github.com/Krisha241/SOC-Lab)
 *Interactive Red vs Blue Team simulation platform to practice real-time incident
 response and validate detection rules.*

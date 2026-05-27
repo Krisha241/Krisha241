@@ -50,7 +50,7 @@ with hands-on security labs and role-based access control.*
 
 - **Security Focus:** 4 hands-on labs covering SQLi, XSS, PCL, and SCE with
   Role-Based Access Control and secure database configurations
-- **Tech:** `JavaScript` `Docker` `RBAC` `Access Control` `FastAPI`
+- **Tech:** `React` `Docker` `RBAC` `Access Control` `FastAPI`
 
 ---
 

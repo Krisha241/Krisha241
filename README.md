@@ -1,85 +1,70 @@
-<h1 align="center">Hi, I'm Krisha 👋 — Aspiring Cyber Security Analyst</h1>
+<h1 align="center">Hi, I'm Krisha Vanpariya 👋</h1>
+
 <p align="center">
-  <b>BTech Information Technology @ Indus University, Ahmedabad (2026) | CGPA: 9.93</b><br>
-  Building Defensive Security Tools · Network Intrusion Detection · SOC Simulations
+  <b>Aspiring Cyber Security Analyst</b> • B.Tech IT Graduate @ Indus University, Ahmedabad (2026) • CGPA: 9.97
 </p>
+
 <p align="center">
-  <a href="https://linkedin.com/in/krisha-vanpariya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-SOC%20%26%20Detection%20Engineering-blue?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/krisha-vanpariya">LinkedIn</a> •
+  <a href="https://krishavanpariya.netlify.app/">Portfolio</a> •
+  <a href="mailto:krishavanpariya2005@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-I'm a final-year IT student who has built real-world cybersecurity tools focused
-on threat detection and SOC operations. I enjoy solving problems at the
-intersection of machine learning and network security.
+I'm an IT graduate who has built real-world cybersecurity tools covering threat detection, SOC simulation, and web vulnerability training. I enjoy working across both offensive and defensive security domains.
 
-- 🎓 Final Year Project: CyberCare — Cybersecurity Education & Simulation Platform
-- 👯 Looking for: SOC Analyst Internship / Entry-Level Cybersecurity Analyst.
-- 📍 Based in: Ahmedabad, India — Open to internships (on-site or remote)
+- 🔍 Interests: SOC Operations, Web Security, Penetration Testing
+- 📍 Ahmedabad, India — Open to entry-level cybersecurity roles (on-site or remote)
 
 ---
 
-## ⚙️ Core Competencies
+## 🚀 Projects
 
-**Security & Monitoring**
-`SOC Operations` `Intrusion Detection (IDS/NIDS)` `Threat Detection`
-`Security Monitoring` `Alert Triage` `Log Analysis` `MITRE ATT&CK`
-
-**Tools & Platforms**
-`Wireshark` `Scapy` `Nmap` `Splunk` `Docker` `SQLite` `Git`
-
-**Programming & Scripting**
-`Python` `Bash` `SQL` `REST APIs`
-
-**Networking**
-`TCP/IP` `Packet Analysis` `Network Traffic Classification` `Anomaly Detection`
-
----
-
-## 🚀 Featured Security Projects
-
-### 🤝 [CyberCare: Cybersecurity Education & Simulation Platform](https://github.com/priyanshitrivedi30/CyberCare)
-*Final Year Project — Collaborative. Full-stack cybersecurity education platform
-with hands-on security labs and role-based access control.*
-
-- **Security Focus:** 4 hands-on labs covering SQLi, XSS, PCL, and SCE with
-  Role-Based Access Control and secure database configurations
-- **Tech:** `React` `Docker` `RBAC` `Access Control` `FastAPI`
-
----
-
-### 🛡️ [SOC-Lab: Attack Simulation & Incident Response](https://github.com/Krisha241/SOC-Lab)
-*Interactive Red vs Blue Team simulation platform to practice real-time incident
-response and validate detection rules.*
-
-- **Security Focus:** Simulates brute force, SQLi, and port scan attacks with
-  live log ingestion and alert triage workflows
-- **Outcome:** Reproducible environment for testing IOCs and refining Tier 1
-  analyst incident response playbooks
-- **Tech:** `Docker` `FastAPI` `React` `Python` `Log Generation`
+### 🛡️ [SOC-Lab](https://github.com/Krisha241/SOC-Lab)
+Red vs. Blue Team SOC simulation platform for practicing real-time incident response and threat detection.
+- Red Team: brute force, port scanning, SQL injection with live log generation
+- Blue Team: alert triage, threat investigation, incident response workflows
+- `Python` `FastAPI` `React` `Docker` `SQLite`
 
 ---
 
 ### 🔐 [SQL Injection Training Lab](https://github.com/Krisha241/SQL_Injection)
-*Dockerized web vulnerability training platform with 6 progressive OWASP-mapped
-SQLi challenges.*
+Interactive platform with 6 progressive SQLi challenges mapped to OWASP Top 10 (A03: Injection).
+- Covers login bypass, UNION-based extraction, blind boolean and time-based SQLi
+- Final challenge teaches secure parameterized query remediation
+- `Python` `FastAPI` `React` `Docker` `SQLite`
 
-- **Security Focus:** Covers OWASP Top 10 injection vulnerabilities in an
-  isolated, safe environment — from basic to blind SQL injection
-- **Outcome:** Hands-on exploitation and remediation practice across 6 difficulty
-  levels with real-time feedback
-- **Tech:** `Docker` `FastAPI` `React` `SQLite` `OWASP Top 10`
+---
+
+### 🤝 [CyberCare](https://github.com/priyanshitrivedi30/CyberCare) — Final Year Project
+Dual-mode cybersecurity platform serving both non-technical users and security professionals.
+- Built the SQLi lab, SOC/Red-Blue Team simulator, and Guided Workflow module
+- Guided Workflow covers PTES penetration testing and web security roadmaps
+- `React` `FastAPI` `PostgreSQL` `Docker`
+
+---
+
+## ⚙️ Skills
+
+| Category | Skills |
+|---|---|
+| **Security Tools** | Wireshark, Nmap, Scapy, Docker, Linux, Git |
+| **Security Concepts** | OWASP Top 10, MITRE ATT&CK, Log Analysis, Alert Triage, Incident Response, Threat Detection |
+| **Offensive Basics** | SQL Injection (Classic, Blind, Time-based), XSS, Login Bypass |
+| **Development** | Python, FastAPI, React, PostgreSQL, SQLite, REST APIs |
+
+---
+
+## 📜 Certifications
+- Introduction to Cybersecurity — Cisco
+- Cybersecurity: From Beginner to Expert — Udemy
 
 ---
 
 ## 📬 Contact
-
-- 💼 LinkedIn: [krisha-vanpariya](https://linkedin.com/in/krisha-vanpariya)
-- 📧 Email: krishavanpariya2005@gmail.com
-- 🌐 Portfolio: [krishavanpariya.netlify.app](https://krishavanpariya.netlify.app)
+- 📧 krishavanpariya2005@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/krisha-vanpariya)
+- 🌐 [Portfolio](https://krishavanpariya.netlify.app/)

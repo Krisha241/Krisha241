@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krisha Vanpariya 👋</h1>
 
 <p align="center">
-  <b>Aspiring Cyber Security Analyst</b> • B.Tech IT Graduate @ Indus University, Ahmedabad (2026) • CGPA: 9.97
+  <b>Aspiring Cyber Security Analyst</b> • B.Tech IT Graduate @ Indus University, Ahmedabad (2026) • CGPA: 9.93
 </p>
 
 <p align="center">
